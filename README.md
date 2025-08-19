@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HTSFdirector
+- 👋 Hi, I’m @HTSFberkeley
 - 👀 I’m interested in creating image analysis programs that allow our great automated imagers to have their images analysis through freeware options (Cell Profiler, Python code, MatLab, etc.)
 - 🌱 I’m currently working a Github program that creates flatfield (background and foreground) corrected images and saves them to a folder for next steps.
 - 💞️ I’m looking to collaborate on linking this folder to more sophisticated programs for analyzing 3D images.
